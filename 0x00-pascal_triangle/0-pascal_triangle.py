@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 def pascal_triangle(n):
     triangle = []  # Initialize an empty list to store the rows of Pascal's triangle.
 
