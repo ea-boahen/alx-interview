@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 
-# Define a Method in pascal_triangle
+''' A Method that prints pascal_triangle
 
-# n : number of rows
+n : number of rows'''
  
 
 def pascal_triangle(n):
