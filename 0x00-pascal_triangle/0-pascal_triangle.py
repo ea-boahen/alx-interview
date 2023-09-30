@@ -6,6 +6,7 @@ n : number of rows'''
  
 
 def pascal_triangle(n):
+    ''' returns n number of rows for pascal triangle'''
     # Initialize an empty list to store the rows of Pascal's triangle.
     triangle = []
 
