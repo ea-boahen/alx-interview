@@ -1,7 +1,13 @@
 #!/usr/bin/python3
 
+# Define a Method in pascal_triangle
+
+# n : number of rows
+ 
+
 def pascal_triangle(n):
-    triangle = []  # Initialize an empty list to store the rows of Pascal's triangle.
+    # Initialize an empty list to store the rows of Pascal's triangle.
+    triangle = []
 
     if n <= 0:
         return []  # Return an empty list for n <= 0.
